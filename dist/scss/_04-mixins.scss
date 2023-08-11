@@ -1,0 +1,81 @@
+@mixin mediaQuery($width: 48rem) {
+  @media screen and (max-width: $width) {
+    @content;
+  }
+}
+
+@mixin imgFit($width: 200px, $height: 200px) {
+  width: $width;
+  height: $height;
+  object-fit: cover;
+  object-fit: center center;
+  display: block;
+}
+
+@mixin btn($bg) {
+  padding: 1.2rem 3rem;
+  border: 2px solid $clr-dark;
+  border-radius: 2rem;
+  color: $clr-light;
+  font-size: 1.5rem;
+  display: inline-block;
+  background: $bg;
+  &:hover {
+    color: $clr-green;
+    border: 2px solid $clr-green;
+  }
+}
+
+@mixin btn-t-w($bg) {
+  padding: 1.2rem 3rem;
+  border: 2px solid white;
+  border-radius: 2rem;
+  color: $clr-light;
+  font-size: 1.5rem;
+  display: inline-block;
+  background: transparent;
+  &:hover {
+    color: $clr-green;
+    border: 2px solid $clr-green;
+  }
+}
+
+@mixin btn-t($bg) {
+  padding: 1.2rem 3rem;
+  border-radius: 2rem;
+  color: $clr-blue;
+  font-size: 1.5rem;
+  font-weight: 600;
+  display: inline-block;
+  background: $bg;
+  &:hover {
+    color: $clr-green;
+  }
+}
+
+@mixin txtbx($bg) {
+  padding: 0.8rem;
+  border: 1px solid $clr-l-blue;
+  border-radius: 0.8rem;
+  color: $clr-l-blue;
+  font-size: 1.5rem;
+  font-weight: 600;
+  display: inline-block;
+  background: $bg;
+}
+
+@mixin txtbx2($bg) {
+  padding: 0.8rem;
+  border-radius: 0.8rem;
+  color: $clr-light;
+  font-size: 1.3rem;
+  font-weight: 600;
+  display: inline-block;
+  background: $bg;
+}
+
+@mixin grid($cols: 1, $gap: 1rem) {
+  display: grid;
+  grid-template-columns: repeat($cols, 1fr);
+  grid-gap: $gap;
+}

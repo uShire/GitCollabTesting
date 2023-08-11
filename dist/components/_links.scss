@@ -1,0 +1,42 @@
+.links {
+  padding: 5rem 0;
+  img {
+    width: 13rem;
+    height: 4rem;
+  }
+  &__wrapper1 {
+    @include mediaQuery {
+      flex-direction: column;
+    }
+    a {
+      &:hover {
+        color: $clr-green;
+      }
+    }
+  }
+  &__wrapper2 {
+    @include grid(3, 6rem);
+    padding: 0 8rem;
+    margin-right: 16rem;
+    @include mediaQuery {
+      @include grid(1, 1rem);
+    }
+    h4 {
+      font-size: 1.2rem;
+      line-height: 2.5;
+      color: $clr-gray;
+    }
+    a {
+      font-size: 1.5rem;
+      display: block;
+      line-height: 2.5;
+      color: $clr-light;
+    }
+  }
+  &__wrapper3 {
+    a {
+      margin: 0 0.5rem;
+      color: $clr-light;
+    }
+  }
+}
