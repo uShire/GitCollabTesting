@@ -6,7 +6,7 @@
 
 a {
   text-decoration: none;
-  color: hsl(0deg, 0%, 0%);
+  color: hsl(0, 0%, 0%);
 }
 
 ul {
@@ -21,7 +21,7 @@ body {
   font-size: 1.6rem;
   font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
   line-height: 1.4;
-  color: hsl(0deg, 0%, 0%);
+  color: hsl(0, 0%, 0%);
 }
 
 .container {
@@ -32,595 +32,595 @@ body {
 }
 
 .bg--dark {
-  background-color: hsl(0deg, 0%, 0%);
+  background-color: hsl(0, 0%, 0%);
 }
 
 .text--dark {
-  color: hsl(0deg, 0%, 0%);
+  color: hsl(0, 0%, 0%);
 }
 
 .hvr--dark:hover {
-  color: hsl(0deg, 0%, 0%);
+  color: hsl(0, 0%, 0%);
 }
 
 .btn.bg--dark {
   padding: 1.2rem 3rem;
-  border: 2px solid hsl(0deg, 0%, 0%);
+  border: 2px solid hsl(0, 0%, 0%);
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
-  background: hsl(0deg, 0%, 0%);
+  background: hsl(0, 0%, 0%);
 }
 .btn.bg--dark:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t-w.bg--dark {
   padding: 1.2rem 3rem;
   border: 2px solid white;
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
   background: transparent;
 }
 .btn-t-w.bg--dark:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t--dark {
   padding: 1.2rem 3rem;
   border-radius: 2rem;
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 0%);
+  background: hsl(0, 0%, 0%);
 }
 .btn-t--dark:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .txtbx.bg--dark {
   padding: 0.8rem;
-  border: 1px solid hsl(213deg, 77%, 49%);
+  border: 1px solid hsl(213, 77%, 49%);
   border-radius: 0.8rem;
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 0%);
+  background: hsl(0, 0%, 0%);
 }
 
 .txtbx2.bg--dark {
   padding: 0.8rem;
   border-radius: 0.8rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.3rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 0%);
+  background: hsl(0, 0%, 0%);
 }
 
 .bg--light {
-  background-color: hsl(0deg, 0%, 100%);
+  background-color: hsl(0, 0%, 100%);
 }
 
 .text--light {
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
 }
 
 .hvr--light:hover {
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
 }
 
 .btn.bg--light {
   padding: 1.2rem 3rem;
-  border: 2px solid hsl(0deg, 0%, 0%);
+  border: 2px solid hsl(0, 0%, 0%);
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
-  background: hsl(0deg, 0%, 100%);
+  background: hsl(0, 0%, 100%);
 }
 .btn.bg--light:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t-w.bg--light {
   padding: 1.2rem 3rem;
   border: 2px solid white;
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
   background: transparent;
 }
 .btn-t-w.bg--light:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t--light {
   padding: 1.2rem 3rem;
   border-radius: 2rem;
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 100%);
+  background: hsl(0, 0%, 100%);
 }
 .btn-t--light:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .txtbx.bg--light {
   padding: 0.8rem;
-  border: 1px solid hsl(213deg, 77%, 49%);
+  border: 1px solid hsl(213, 77%, 49%);
   border-radius: 0.8rem;
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 100%);
+  background: hsl(0, 0%, 100%);
 }
 
 .txtbx2.bg--light {
   padding: 0.8rem;
   border-radius: 0.8rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.3rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 100%);
+  background: hsl(0, 0%, 100%);
 }
 
 .bg--primary {
-  background-color: hsl(39deg, 100%, 50%);
+  background-color: hsl(39, 100%, 50%);
 }
 
 .text--primary {
-  color: hsl(39deg, 100%, 50%);
+  color: hsl(39, 100%, 50%);
 }
 
 .hvr--primary:hover {
-  color: hsl(39deg, 100%, 50%);
+  color: hsl(39, 100%, 50%);
 }
 
 .btn.bg--primary {
   padding: 1.2rem 3rem;
-  border: 2px solid hsl(0deg, 0%, 0%);
+  border: 2px solid hsl(0, 0%, 0%);
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
-  background: hsl(39deg, 100%, 50%);
+  background: hsl(39, 100%, 50%);
 }
 .btn.bg--primary:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t-w.bg--primary {
   padding: 1.2rem 3rem;
   border: 2px solid white;
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
   background: transparent;
 }
 .btn-t-w.bg--primary:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t--primary {
   padding: 1.2rem 3rem;
   border-radius: 2rem;
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(39deg, 100%, 50%);
+  background: hsl(39, 100%, 50%);
 }
 .btn-t--primary:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .txtbx.bg--primary {
   padding: 0.8rem;
-  border: 1px solid hsl(213deg, 77%, 49%);
+  border: 1px solid hsl(213, 77%, 49%);
   border-radius: 0.8rem;
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(39deg, 100%, 50%);
+  background: hsl(39, 100%, 50%);
 }
 
 .txtbx2.bg--primary {
   padding: 0.8rem;
   border-radius: 0.8rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.3rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(39deg, 100%, 50%);
+  background: hsl(39, 100%, 50%);
 }
 
 .bg--gray {
-  background-color: hsl(0deg, 0%, 60%);
+  background-color: hsl(0, 0%, 60%);
 }
 
 .text--gray {
-  color: hsl(0deg, 0%, 60%);
+  color: hsl(0, 0%, 60%);
 }
 
 .hvr--gray:hover {
-  color: hsl(0deg, 0%, 60%);
+  color: hsl(0, 0%, 60%);
 }
 
 .btn.bg--gray {
   padding: 1.2rem 3rem;
-  border: 2px solid hsl(0deg, 0%, 0%);
+  border: 2px solid hsl(0, 0%, 0%);
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
-  background: hsl(0deg, 0%, 60%);
+  background: hsl(0, 0%, 60%);
 }
 .btn.bg--gray:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t-w.bg--gray {
   padding: 1.2rem 3rem;
   border: 2px solid white;
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
   background: transparent;
 }
 .btn-t-w.bg--gray:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t--gray {
   padding: 1.2rem 3rem;
   border-radius: 2rem;
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 60%);
+  background: hsl(0, 0%, 60%);
 }
 .btn-t--gray:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .txtbx.bg--gray {
   padding: 0.8rem;
-  border: 1px solid hsl(213deg, 77%, 49%);
+  border: 1px solid hsl(213, 77%, 49%);
   border-radius: 0.8rem;
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 60%);
+  background: hsl(0, 0%, 60%);
 }
 
 .txtbx2.bg--gray {
   padding: 0.8rem;
   border-radius: 0.8rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.3rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 60%);
+  background: hsl(0, 0%, 60%);
 }
 
 .bg--dgray {
-  background-color: hsl(0deg, 0%, 94%);
+  background-color: hsl(0, 0%, 94%);
 }
 
 .text--dgray {
-  color: hsl(0deg, 0%, 94%);
+  color: hsl(0, 0%, 94%);
 }
 
 .hvr--dgray:hover {
-  color: hsl(0deg, 0%, 94%);
+  color: hsl(0, 0%, 94%);
 }
 
 .btn.bg--dgray {
   padding: 1.2rem 3rem;
-  border: 2px solid hsl(0deg, 0%, 0%);
+  border: 2px solid hsl(0, 0%, 0%);
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
-  background: hsl(0deg, 0%, 94%);
+  background: hsl(0, 0%, 94%);
 }
 .btn.bg--dgray:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t-w.bg--dgray {
   padding: 1.2rem 3rem;
   border: 2px solid white;
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
   background: transparent;
 }
 .btn-t-w.bg--dgray:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t--dgray {
   padding: 1.2rem 3rem;
   border-radius: 2rem;
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 94%);
+  background: hsl(0, 0%, 94%);
 }
 .btn-t--dgray:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .txtbx.bg--dgray {
   padding: 0.8rem;
-  border: 1px solid hsl(213deg, 77%, 49%);
+  border: 1px solid hsl(213, 77%, 49%);
   border-radius: 0.8rem;
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 94%);
+  background: hsl(0, 0%, 94%);
 }
 
 .txtbx2.bg--dgray {
   padding: 0.8rem;
   border-radius: 0.8rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.3rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(0deg, 0%, 94%);
+  background: hsl(0, 0%, 94%);
 }
 
 .bg--blue {
-  background-color: hsl(229deg, 61%, 42%);
+  background-color: hsl(229, 61%, 42%);
 }
 
 .text--blue {
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
 }
 
 .hvr--blue:hover {
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
 }
 
 .btn.bg--blue {
   padding: 1.2rem 3rem;
-  border: 2px solid hsl(0deg, 0%, 0%);
+  border: 2px solid hsl(0, 0%, 0%);
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
-  background: hsl(229deg, 61%, 42%);
+  background: hsl(229, 61%, 42%);
 }
 .btn.bg--blue:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t-w.bg--blue {
   padding: 1.2rem 3rem;
   border: 2px solid white;
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
   background: transparent;
 }
 .btn-t-w.bg--blue:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t--blue {
   padding: 1.2rem 3rem;
   border-radius: 2rem;
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(229deg, 61%, 42%);
+  background: hsl(229, 61%, 42%);
 }
 .btn-t--blue:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .txtbx.bg--blue {
   padding: 0.8rem;
-  border: 1px solid hsl(213deg, 77%, 49%);
+  border: 1px solid hsl(213, 77%, 49%);
   border-radius: 0.8rem;
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(229deg, 61%, 42%);
+  background: hsl(229, 61%, 42%);
 }
 
 .txtbx2.bg--blue {
   padding: 0.8rem;
   border-radius: 0.8rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.3rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(229deg, 61%, 42%);
+  background: hsl(229, 61%, 42%);
 }
 
 .bg--lblue {
-  background-color: hsl(213deg, 77%, 49%);
+  background-color: hsl(213, 77%, 49%);
 }
 
 .text--lblue {
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
 }
 
 .hvr--lblue:hover {
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
 }
 
 .btn.bg--lblue {
   padding: 1.2rem 3rem;
-  border: 2px solid hsl(0deg, 0%, 0%);
+  border: 2px solid hsl(0, 0%, 0%);
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
-  background: hsl(213deg, 77%, 49%);
+  background: hsl(213, 77%, 49%);
 }
 .btn.bg--lblue:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t-w.bg--lblue {
   padding: 1.2rem 3rem;
   border: 2px solid white;
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
   background: transparent;
 }
 .btn-t-w.bg--lblue:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t--lblue {
   padding: 1.2rem 3rem;
   border-radius: 2rem;
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(213deg, 77%, 49%);
+  background: hsl(213, 77%, 49%);
 }
 .btn-t--lblue:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .txtbx.bg--lblue {
   padding: 0.8rem;
-  border: 1px solid hsl(213deg, 77%, 49%);
+  border: 1px solid hsl(213, 77%, 49%);
   border-radius: 0.8rem;
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(213deg, 77%, 49%);
+  background: hsl(213, 77%, 49%);
 }
 
 .txtbx2.bg--lblue {
   padding: 0.8rem;
   border-radius: 0.8rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.3rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(213deg, 77%, 49%);
+  background: hsl(213, 77%, 49%);
 }
 
 .bg--green {
-  background-color: hsl(141deg, 76%, 48%);
+  background-color: hsl(141, 76%, 48%);
 }
 
 .text--green {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .hvr--green:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .btn.bg--green {
   padding: 1.2rem 3rem;
-  border: 2px solid hsl(0deg, 0%, 0%);
+  border: 2px solid hsl(0, 0%, 0%);
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
-  background: hsl(141deg, 76%, 48%);
+  background: hsl(141, 76%, 48%);
 }
 .btn.bg--green:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t-w.bg--green {
   padding: 1.2rem 3rem;
   border: 2px solid white;
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
   background: transparent;
 }
 .btn-t-w.bg--green:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t--green {
   padding: 1.2rem 3rem;
   border-radius: 2rem;
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(141deg, 76%, 48%);
+  background: hsl(141, 76%, 48%);
 }
 .btn-t--green:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .txtbx.bg--green {
   padding: 0.8rem;
-  border: 1px solid hsl(213deg, 77%, 49%);
+  border: 1px solid hsl(213, 77%, 49%);
   border-radius: 0.8rem;
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(141deg, 76%, 48%);
+  background: hsl(141, 76%, 48%);
 }
 
 .txtbx2.bg--green {
   padding: 0.8rem;
   border-radius: 0.8rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.3rem;
   font-weight: 600;
   display: inline-block;
-  background: hsl(141deg, 76%, 48%);
+  background: hsl(141, 76%, 48%);
 }
 
 .bg--transparent {
@@ -637,50 +637,50 @@ body {
 
 .btn.bg--transparent {
   padding: 1.2rem 3rem;
-  border: 2px solid hsl(0deg, 0%, 0%);
+  border: 2px solid hsl(0, 0%, 0%);
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
   background: transparent;
 }
 .btn.bg--transparent:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t-w.bg--transparent {
   padding: 1.2rem 3rem;
   border: 2px solid white;
   border-radius: 2rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.5rem;
   display: inline-block;
   background: transparent;
 }
 .btn-t-w.bg--transparent:hover {
-  color: hsl(141deg, 76%, 48%);
-  border: 2px solid hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
+  border: 2px solid hsl(141, 76%, 48%);
 }
 
 .btn-t--transparent {
   padding: 1.2rem 3rem;
   border-radius: 2rem;
-  color: hsl(229deg, 61%, 42%);
+  color: hsl(229, 61%, 42%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
   background: transparent;
 }
 .btn-t--transparent:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .txtbx.bg--transparent {
   padding: 0.8rem;
-  border: 1px solid hsl(213deg, 77%, 49%);
+  border: 1px solid hsl(213, 77%, 49%);
   border-radius: 0.8rem;
-  color: hsl(213deg, 77%, 49%);
+  color: hsl(213, 77%, 49%);
   font-size: 1.5rem;
   font-weight: 600;
   display: inline-block;
@@ -690,7 +690,7 @@ body {
 .txtbx2.bg--transparent {
   padding: 0.8rem;
   border-radius: 0.8rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   font-size: 1.3rem;
   font-weight: 600;
   display: inline-block;
@@ -1278,7 +1278,7 @@ body {
   height: 4rem;
 }
 .links__wrapper1 a:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 .links__wrapper2 {
   display: grid;
@@ -1290,17 +1290,17 @@ body {
 .links__wrapper2 h4 {
   font-size: 1.2rem;
   line-height: 2.5;
-  color: hsl(0deg, 0%, 60%);
+  color: hsl(0, 0%, 60%);
 }
 .links__wrapper2 a {
   font-size: 1.5rem;
   display: block;
   line-height: 2.5;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
 }
 .links__wrapper3 a {
   margin: 0 0.5rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
 }
 
 .premium {
@@ -1338,11 +1338,11 @@ body {
   }
 }
 .premium__text2 a {
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   text-decoration: underline;
 }
 .premium__text2 a:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 .premium__buttons {
   padding-bottom: 4rem;
@@ -1382,7 +1382,7 @@ body {
   }
 }
 .premium__mini__wrapper a:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 .premium__mini__buttons a {
   font-weight: 900;
@@ -1399,7 +1399,7 @@ body {
 }
 .premium__mini__a a {
   font-size: 1rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
   text-decoration: underline;
 }
 
@@ -1523,7 +1523,7 @@ body {
   }
 }
 .pick__content .p1 {
-  color: hsl(0deg, 0%, 60%);
+  color: hsl(0, 0%, 60%);
   margin-bottom: 5rem;
 }
 @media screen and (max-width: 48rem) {
@@ -1563,7 +1563,7 @@ body {
 .pick__content a {
   font-size: 1rem;
   text-decoration: underline;
-  color: hsl(0deg, 0%, 60%);
+  color: hsl(0, 0%, 60%);
 }
 @media screen and (max-width: 48rem) {
   .pick__content a {
@@ -1574,7 +1574,7 @@ body {
   box-shadow: rgb(255, 255, 255) 0px 0px 0px 0px, rgba(0, 0, 0, 0.5) 0px 0px 8px;
   margin: 5rem 0;
   display: flex;
-  background: hsl(0deg, 0%, 100%);
+  background: hsl(0, 0%, 100%);
   border-radius: 1rem;
   width: 78rem;
   padding: 2rem;
@@ -1619,7 +1619,7 @@ body {
     position: fixed;
     top: 8rem;
     right: -800px;
-    background: hsl(0deg, 0%, 0%);
+    background: hsl(0, 0%, 0%);
     height: 100vh;
   }
 }
@@ -1652,10 +1652,10 @@ nav li {
   margin: 2rem;
 }
 nav a {
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
 }
 nav a:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 
 .nav__open {
@@ -1664,7 +1664,7 @@ nav a:hover {
 @media screen and (max-width: 48rem) {
   .nav__open {
     display: block;
-    color: hsl(0deg, 0%, 0%);
+    color: hsl(0, 0%, 0%);
   }
 }
 
@@ -1678,7 +1678,7 @@ nav a:hover {
   }
 }
 .toggle__menu span {
-  background-color: hsl(0deg, 0%, 100%);
+  background-color: hsl(0, 0%, 100%);
   width: 2.5rem;
   height: 3px;
   display: block;
@@ -1711,7 +1711,7 @@ nav a:hover {
   }
 }
 .links__wrapper1 a:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 .links__wrapper2 {
   display: grid;
@@ -1730,17 +1730,17 @@ nav a:hover {
 .links__wrapper2 h4 {
   font-size: 1.2rem;
   line-height: 2.5;
-  color: hsl(0deg, 0%, 60%);
+  color: hsl(0, 0%, 60%);
 }
 .links__wrapper2 a {
   font-size: 1.5rem;
   display: block;
   line-height: 2.5;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
 }
 .links__wrapper3 a {
   margin: 0 0.5rem;
-  color: hsl(0deg, 0%, 100%);
+  color: hsl(0, 0%, 100%);
 }
 
 .footer {
@@ -1749,27 +1749,27 @@ nav a:hover {
 .footer a {
   margin-right: 2rem;
   font-size: 1.2rem;
-  color: hsl(0deg, 0%, 60%);
+  color: hsl(0, 0%, 60%);
 }
 .footer a:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 .footer p {
   font-size: 1.2rem;
-  color: hsl(0deg, 0%, 60%);
+  color: hsl(0, 0%, 60%);
 }
 .footer .vector {
   text-align: right;
 }
 .footer .vector a {
   font-size: 1.2rem;
-  color: hsl(0deg, 0%, 60%);
+  color: hsl(0, 0%, 60%);
 }
 .footer .vector a:hover {
-  color: hsl(141deg, 76%, 48%);
+  color: hsl(141, 76%, 48%);
 }
 .footer .vector img {
-  color: hsl(0deg, 0%, 60%);
+  color: hsl(0, 0%, 60%);
   width: 12px;
   height: 12px;
   margin-right: 0.1rem;
